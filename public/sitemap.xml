@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/2017/05/build-test/</loc>
+    <loc>/2017/05/build-test/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/2017/05/build-test/</loc>
+    <loc>/2017/05/build-test/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</loc>
+    <loc>/2015/07/hello-world/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</loc>
+    <loc>/2015/07/hello-world/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/tags/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/categories/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazutan.github.io/blogdown_test/</loc>
+    <loc>/</loc>
     <lastmod>2017-05-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

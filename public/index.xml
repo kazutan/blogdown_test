@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>title desu.</title>
-    <link>https://kazutan.github.io/blogdown_test/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on title desu.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kazutan.github.io/blogdown_test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>build_test</title>
-      <link>https://kazutan.github.io/blogdown_test/2017/05/build-test/</link>
+      <link>/2017/05/build-test/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kazutan.github.io/blogdown_test/2017/05/build-test/</guid>
+      <guid>/2017/05/build-test/</guid>
       <description>&lt;p&gt;ほげほげ。&lt;/p&gt;
 &lt;div class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ほげほげ&lt;/h2&gt;
 &lt;p&gt;ふがふが。&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;plot(1:10)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;https://kazutan.github.io/blogdown_test/blogdown_test/post/2017-05-18-build-test_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2017-05-18-build-test_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;section level2&#34;&gt;
 &lt;h2&gt;ふがふぁ&lt;/h2&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>build_test</title>
-      <link>https://kazutan.github.io/blogdown_test/2017/05/build-test/</link>
+      <link>/2017/05/build-test/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kazutan.github.io/blogdown_test/2017/05/build-test/</guid>
+      <guid>/2017/05/build-test/</guid>
       <description>
 
 &lt;p&gt;ほげほげ。&lt;/p&gt;
@@ -109,7 +109,7 @@
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;plot(1:10)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://kazutan.github.io/blogdown_test/figures/post/2017-05-18-build-test/unnamed-chunk-1-1.png&#34; alt=&#34;plot of chunk unnamed-chunk-1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/figures/post/2017-05-18-build-test/unnamed-chunk-1-1.png&#34; alt=&#34;plot of chunk unnamed-chunk-1&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;ふがふぁ&#34;&gt;ふがふぁ&lt;/h2&gt;
 
@@ -194,10 +194,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</link>
+      <link>/2015/07/hello-world/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</guid>
+      <guid>/2015/07/hello-world/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -231,7 +231,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://kazutan.github.io/blogdown_test/blogdown_test/post/hello-world_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/hello-world_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -242,10 +242,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Hello World</title>
-      <link>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</link>
+      <link>/2015/07/hello-world/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://kazutan.github.io/blogdown_test/2015/07/hello-world/</guid>
+      <guid>/2015/07/hello-world/</guid>
       <description>
 
 &lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
@@ -283,7 +283,7 @@ pie(c(280, 60, 20), c(&amp;quot;Sky&amp;quot;, &amp;quot;Sunny side of pyramid&a
     border = NA)
 &lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://kazutan.github.io/blogdown_test/figures/post/hello-world/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/figures/post/hello-world/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

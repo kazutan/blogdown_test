@@ -1,4 +1,4 @@
-baseurl                 = "https://kazutan.github.io/blogdown_test/"
+baseurl                 = "/"
 languageCode            = "en-us"
 title                   = "title desu."
 theme                   = "hyde-y"
