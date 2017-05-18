@@ -1,0 +1,35 @@
+---
+title: build_test
+author: kazutan
+date: '2017-05-18'
+slug: build-test
+categories:
+  - R
+tags:
+  - R
+description: description
+draft: no
+keywords:
+  - key
+  - words
+topics: topic 1
+type: post
+---
+
+ほげほげ。
+
+## ほげほげ
+
+ふがふが。
+
+```{r}
+plot(1:10)
+```
+
+## ふがふぁ
+
+```{r}
+head(iris)
+knitr::kable(head(iris))
+```
+
